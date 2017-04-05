@@ -1,7 +1,12 @@
 
 %-------------------------- identification ---------------------
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{MNE_UOM_thesis}[2017/03/22 v1.0 UOM MNE thesis class by Josef Magri]
+\ProvidesClass{MNE_UOM_thesis}[2017/03/22 v1.0 UOM MNE thesis]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%        Created by Josef Magri      %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%        magri.josef@gmail.com       %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %-------------------------- initial code -----------------------
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{report}}
